@@ -1,4 +1,4 @@
 export default {
   header: "Order Page",
-  view: "Order",
+  view: "Order"
 };
